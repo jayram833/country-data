@@ -1,0 +1,40 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 30px;
+}
+
+.card {
+  margin-top: 20px;
+  height: 80vh;
+  width: 23vw;
+  box-shadow: 5px 10px 18px #888888;
+  border-radius: 10px;
+}
+
+.flag {
+  border-radius: 10px;
+  width: 100%;
+}
+
+.info {
+  padding-left: 20px;
+}
+
+h1 {
+  padding-left: 20px;
+}
+
+.region {
+  padding-left: 20px;
+}
+
+.get__country__name {
+  height: 30px;
+  font-size: 20px;
+  width: 150px;
+}
